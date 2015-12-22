@@ -5,14 +5,14 @@ import java.util.*;
 /**
  * @author Guyue Zhou (SouICry) gzhou.email@gmail.com
  * @since 12/22/2015
- * A stable, iterative, in place implementations of MergeSort for arrays and Lists of Comparable elements.
+ * Stable, iterative implementations of MergeSort for arrays and Lists of Comparable elements.
  * Originally made as coding practice.
  */
 public class MergeSort {
 
     /**
      * Sorts the given array of Comparable elements.
-     * Stable, iterative, in place.
+     * Stable, iterative.
      * @param elements - the array of elements
      */
     public static void sort(Comparable[] elements) {
@@ -49,7 +49,7 @@ public class MergeSort {
 
     /**
      * Sorts the given List of Comparable elements.
-     * Stable, iterative, in place.
+     * Stable, iterative.
      * @param elements - the List of elements
      */
     public static void sort(List<Comparable> elements){
