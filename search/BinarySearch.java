@@ -4,7 +4,8 @@ import java.util.*;
 /**
  * @author Guyue Zhou (SouICry) gzhou.email@gmail.com
  * @since 12/22/2015
- *
+ * Iterative implementations of BinarySearch for Lists and arrays of Comparable elements.
+ * Originally for coding practice.
  */
 
 public class BinarySearch {
