@@ -7,11 +7,11 @@ package DataStructures;
  */
 
 public class IntPair {
-    public int firstIndex;
-    public int secondIndex;
+    public int firstValue;
+    public int secondValue;
 
     public IntPair(int a, int b){
-        firstIndex = a;
-        secondIndex = b;
+        firstValue = a;
+        secondValue = b;
     }
 }
